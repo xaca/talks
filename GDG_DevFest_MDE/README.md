@@ -16,7 +16,7 @@
 
 + Recopilación de referentes, definir agenda con el contenido
 + Revisar videos (Launchpad online)
-+ [Definición copies de la charla](https://github.com/xaca/talks/blob/master/Slides.md)
++ [Definición copies de la charla](https://github.com/xaca/talks/blob/master/GDG_DevFest_MDE/Slides.md)
 
 > «Había un programador que se fue a otra empresa, era el tipo de persona que si algo requiere más de 90 segundos de su tiempo, escribe un script (archivo de órdenes) para automatizar eso». -Narkoz-
 

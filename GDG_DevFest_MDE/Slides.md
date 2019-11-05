@@ -7,6 +7,9 @@
 
 ## Slide 1
 
+### 11:40 AM Automatizar tareas usando Google Scripting
+#### Andrés Bedoya Tobón
+
 - Nombre de la charla, autor y redes
 - Definir el nivel de dificultad de la charla (novatos/avanzados)
 
@@ -14,32 +17,36 @@
 
 ### Agenda
 
-1. ¿Qué es programación?
-2. Automatizar tareas / Referente caso github
-3. ¿Qué es Google Apps Script?
-4. ¿Para que lo recomiendo?
-5. ¿Para que no se recomienda?
-6. Para tener en cuenta (Precaución con los datos)
-7. ¿Cómo funciona? / Diagrama
+- ¿Qué es programación?
+- Automatizar tareas / Referente caso github
+- ¿Qué es Google Apps Script?
+- ¿Cuando usar G.A.S?
+- ¿cuando no usar G.A.S?
+- Para tener en cuenta (Precaución con los datos)
+- ¿Cómo funciona? / Diagrama
     - Requisitos mínimos
     - GAS cheat sheet
     - Creación de scripts
     - Ejecución
     - Debug
     - Ejecución según eventos / Tiempo / Fecha
-8. Resumen de la charla
-9. Ejemplos
+- Resumen de la charla
+- Ejemplos
     - Lista de chequeo de viaje
     - Formulario para rifa en la charla
-10. Agradecimiento e info de contacto
+- Agradecimiento e info de contacto
 
 ## Slide 3
 
 - ¿Qué es programación?
 
+Diagrama de flujo con las principales tareas para realizar un programa.
+
 ## Slide 4
 
 - Automatizar tareas
+
+
 
 ## Slide 5
 
@@ -52,3 +59,15 @@
 No hay manipulación del DOM, lo único que se hace en el browser es la escritura del código.
 
 ## Slide 6
+
+### ¿Cuando usar G.A.S?
+
+- Para crear una funcionalidad personalizada en alguna de las aplicaciones soportadas de G Suite
+
+- Para validar una funcionalidad temporal, de manera rápida
+
+- Para tener una solución en la nube con poca configuración
+
+- Para combinar habilidades de programación con una plataforma potente como Google
+
+- Para estudiar y aprender a programar en javascript

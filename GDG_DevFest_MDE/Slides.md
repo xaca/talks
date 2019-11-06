@@ -62,6 +62,8 @@ No hay manipulación del DOM, lo único que se hace en el browser es la escritur
 
 ### ¿Cuando usar G.A.S?
 
+- Para estudiar y aprender a programar en javascript
+
 - Para crear una funcionalidad personalizada en alguna de las aplicaciones soportadas de G Suite
 
 - Para validar una funcionalidad temporal, de manera rápida
@@ -70,4 +72,22 @@ No hay manipulación del DOM, lo único que se hace en el browser es la escritur
 
 - Para combinar habilidades de programación con una plataforma potente como Google
 
-- Para estudiar y aprender a programar en javascript
+## Slide 7
+
+### ¿Cuando NO usar G.A.S?
+
+- Para solucionar una necesidad de un cliente que requiera ser robusta, escalable, administrable, mantenible, entre otros.
+
+- Cuando se requiera trabajo sincronizado y dividido, si bien drive es para trabajar en equipo. Distribuir tareas entre varias personas requiere de la creacion de un estandar extra, que es innecesario.
+
+- No es posible integración con frameworks, librerías o servicios externos
+
+- Aunque es posible conectarse a una base de datos usando [JDBC Service](https://developers.google.com/apps-script/guides/jdbc) Si tu programa requiere de esto, posiblemente es mejor migrar a otra solución. Ya que excel puede ser usado como base de datos.
+
+## Slide 8
+
+### Para tener en cuenta
+
+Google drive dispone de herramientas de control de cambios, historial de versiones, trabajo offline y otras características para garantizr la integridad de los datos. Sin embargo antes de realizar scripts o automatizar un proceso sobre información valiosa, se recomienda trabajar sobre datos de prueba, en un archivo que se pueda "dañar"
+
+Por lo general los scripts, no piden confirmación para actualizar campos, borrar datos o crear nuevos registros, estos procedimientos se realizan sin preguntarle al usuario, por tanto en este proceso se puede llevar al archivo a un estado corrupto.

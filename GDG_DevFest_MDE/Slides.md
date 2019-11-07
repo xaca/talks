@@ -7,7 +7,7 @@
 
 ## Slide 1
 
-### 11:40 AM Automatizar tareas usando Google Scripting
+### 11:40 AM / Automatizar tareas usando Google Scripting
 #### Andrés Bedoya Tobón
 
 - Nombre de la charla, autor y redes
@@ -91,3 +91,14 @@ No hay manipulación del DOM, lo único que se hace en el browser es la escritur
 Google drive dispone de herramientas de control de cambios, historial de versiones, trabajo offline y otras características para garantizr la integridad de los datos. Sin embargo antes de realizar scripts o automatizar un proceso sobre información valiosa, se recomienda trabajar sobre datos de prueba, en un archivo que se pueda "dañar"
 
 Por lo general los scripts, no piden confirmación para actualizar campos, borrar datos o crear nuevos registros, estos procedimientos se realizan sin preguntarle al usuario, por tanto en este proceso se puede llevar al archivo a un estado corrupto.
+
+## Slide 9
+
+### ¿Cómo funciona?
+
+- Prerequisitos
+    - Cuenta de google
+    - Acceso a google drive
+- Cheat sheet / Shortcuts
+    - [Google apps script cheat sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
+    - 

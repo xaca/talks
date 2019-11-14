@@ -46,8 +46,6 @@ Diagrama de flujo con las principales tareas para realizar un programa.
 
 - Automatizar tareas
 
-
-
 ## Slide 5
 
 - ¿Qué es Google Apps Script?
@@ -99,6 +97,22 @@ Por lo general los scripts, no piden confirmación para actualizar campos, borra
 - Prerequisitos
     - Cuenta de google
     - Acceso a google drive
-- Cheat sheet / Shortcuts
-    - [Google apps script cheat sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
-    - 
+    - Fundamentos de programación (código spaghetti)
+        - [Google apps script cheatsheet](https://github.com/jychri/google-apps-script-cheat-sheet)
+        - [Javascript cheatsheet 1/2](img/javascript-cheatsheet-page1-hq-codemio.jpg)
+        - [Javascript cheatsheet 2/2](img/javascript-cheatsheet-page2-hq-codemio.jpg)
+    - Ingresar al editor de secuencia de comandos (Herramientas/Editor de secuencia de comandos)
+    - Escribir funcion inicial
+    - Guardar el proyecto con un nombre apropiado
+    - Seleccionar la función a ejecutar y presionar el botón play
+    - Asignar permisos de ejecución si se presenta cuadro de dialogo
+
+## Slide 10
+
+#### Resumen
+
+- ¿Qué es programación?
+- ¿Qué es automatizar un proceso?
+- ¿Qué es Google Apps Sript?
+- Pros / contras de G.A.S
+- ¿Cómo funciona?

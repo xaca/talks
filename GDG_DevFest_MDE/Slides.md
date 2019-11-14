@@ -62,6 +62,8 @@ No hay manipulación del DOM, lo único que se hace en el browser es la escritur
 
 - Para estudiar y aprender a programar en javascript
 
+- Cuando el código NO es muy extenso
+
 - Para crear una funcionalidad personalizada en alguna de las aplicaciones soportadas de G Suite
 
 - Para validar una funcionalidad temporal, de manera rápida
@@ -97,11 +99,11 @@ Por lo general los scripts, no piden confirmación para actualizar campos, borra
 - Prerequisitos
     - Cuenta de google
     - Acceso a google drive
-- Se recomienda tener, conocimientos en programación   
-    - Fundamentos de programación (código spaghetti)
-        - [Google apps script cheatsheet](https://github.com/jychri/google-apps-script-cheat-sheet)
-        - [Javascript cheatsheet 1/2](img/javascript-cheatsheet-page1-hq-codemio.jpg)
-        - [Javascript cheatsheet 2/2](img/javascript-cheatsheet-page2-hq-codemio.jpg)
+- Se recomienda tener, conocimientos en programación
+    - [Código Spaghetti](img/r_1283653_RMBmE.jpg)
+    - [Google apps script cheatsheet](https://github.com/jychri/google-apps-script-cheat-sheet)
+    - [Javascript cheatsheet 1/2](img/javascript-cheatsheet-page1-hq-codemio.jpg)
+    - [Javascript cheatsheet 2/2](img/javascript-cheatsheet-page2-hq-codemio.jpg)
 - Empezando
     - Crear una nueva hoja de cálculo de google
     - Ingresar al editor de secuencia de comandos (Herramientas/Editor de secuencia de comandos)

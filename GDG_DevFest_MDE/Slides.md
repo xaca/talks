@@ -97,10 +97,13 @@ Por lo general los scripts, no piden confirmación para actualizar campos, borra
 - Prerequisitos
     - Cuenta de google
     - Acceso a google drive
+- Se recomienda tener, conocimientos en programación   
     - Fundamentos de programación (código spaghetti)
         - [Google apps script cheatsheet](https://github.com/jychri/google-apps-script-cheat-sheet)
         - [Javascript cheatsheet 1/2](img/javascript-cheatsheet-page1-hq-codemio.jpg)
         - [Javascript cheatsheet 2/2](img/javascript-cheatsheet-page2-hq-codemio.jpg)
+- Empezando
+    - Crear una nueva hoja de cálculo de google
     - Ingresar al editor de secuencia de comandos (Herramientas/Editor de secuencia de comandos)
     - Escribir funcion inicial
     - Guardar el proyecto con un nombre apropiado

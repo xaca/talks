@@ -148,9 +148,9 @@ Variable Global:
     - var estudiantes = ["Juan","Esteban","William","David","Ana","Carmen"];
 
 Lista de funciones
-    -  shuffle(array): Desordena un arreglo *  
-    -  invertColor(hex,bg), padZero(str, len): Crea un color que contraste con un fondo *  
-    -  getRandomColor(): Calcula un color aleatorio *  
+    -  shuffle(array): Desordena un arreglo *       
+    -  invertColor(hex,bg), padZero(str, len): Crea un color que contraste con un fondo *   
+    -  getRandomColor(): Calcula un color aleatorio *   
     -  desordenador(): Interactua con la hoja de cálculo  
  
 *: Funciones tomadas de stack over flow y otros sitios

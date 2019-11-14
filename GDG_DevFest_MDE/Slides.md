@@ -135,10 +135,27 @@ conflictos si otras personas usan su espacio.
     - Asignar una silla del salón según el nuevo orden
     - Diagramar los resultados
 
-- Para validar la solución gráfica se crea una tabla en excel que simule 
-los puestos del salón, el tablero y a cada estudiante por el nombre
+- Para validar la solución gráfica se crea una tabla en la hoja de cálculo que simule los puestos del salón, el tablero y a cada estudiante por el nombre
 
 - Finalmente se traduce a código la solución
 
+## slide 12
 
+### Código
+
+Variable Global:
+
+    - var estudiantes = ["Juan","Esteban","William","David","Ana","Carmen"];
+
+Lista de funciones
+    - shuffle(array): Desordena un arreglo *
+    - invertColor(hex,bg), padZero(str, len): Crea un color que contraste con un fondo *
+    - getRandomColor(): Calcula un color aleatorio *
+    - desordenador(): Interactua con la hoja de cálculo
+
+*: Funciones tomadas de stack over flow y otros sitios
+
+## Enlaces de apoyo
+
+- [Apps Script Dashboard](https://script.google.com/)
 

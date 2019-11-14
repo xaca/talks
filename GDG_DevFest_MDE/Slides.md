@@ -32,8 +32,8 @@
     - Ejecución según eventos / Tiempo / Fecha
 - Resumen de la charla
 - Ejemplos
-    - Lista de chequeo de viaje
-    - Formulario para rifa en la charla
+    - Silla App (Aplicación para asignar sillas aleatorias en un salón)
+    - Formulario para rifa en la charla (Se deja en el canal de youtube)
 - Agradecimiento e info de contacto
 
 ## Slide 3
@@ -121,3 +121,24 @@ Por lo general los scripts, no piden confirmación para actualizar campos, borra
 - ¿Qué es Google Apps Sript?
 - Pros / contras de G.A.S
 - ¿Cómo funciona?
+
+## Slide 11
+
+### Ejemplo - Silla APP
+
+- Problema: Los estudiantes universitarios, siempre se sientan en los mismos puestos, esto hace que no conozcan nuevos amigos y se presenten
+conflictos si otras personas usan su espacio.
+
+- Pasos para solucionar el problema:    
+    - Tener una lista de los estudiantes de clase
+    - Desordenar la lista
+    - Asignar una silla del salón según el nuevo orden
+    - Diagramar los resultados
+
+- Para validar la solución gráfica se crea una tabla en excel que simule 
+los puestos del salón, el tablero y a cada estudiante por el nombre
+
+- Finalmente se traduce a código la solución
+
+
+

@@ -148,7 +148,7 @@ conflictos si otras personas usan su espacio.
 
 ![Silla App - Demo](img/demo.gif)
 
-Se puede revisar el archivo de la hoja de cálculo en el siguiente enlace, sin embargo los scripts no funcionan cuando solo se tiene acceso de solo lectura.
+Se puede revisar el archivo de la hoja de cálculo en el siguiente enlace, sin embargo los scripts no funcionan con acceso de solo lectura.
 
 [Demo online](https://docs.google.com/spreadsheets/d/1-a_e5HAyyh4w9OYOiRExXVNHFEK4XjHdo63jTAlmEpE/edit?usp=sharing)
 

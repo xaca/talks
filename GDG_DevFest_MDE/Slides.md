@@ -141,6 +141,15 @@ conflictos si otras personas usan su espacio.
 
 ## Slide 12
 
+![Video de youtube - Google Apps Script](https://i.ytimg.com/vi/4ph0Y2LvGys/hqdefault.jpg)
+[Enlace al video de youtube con el demo](https://www.youtube.com/watch?v=4ph0Y2LvGys)
+
+![Silla App - Demo](img/demo.gif)
+
+Se puede revisar el archivo de la hoja de cálculo en el siguiente enlace, sin embargo los scripts no funcionan cuando solo se tiene acceso de solo lectura.
+
+[Demo online](https://docs.google.com/spreadsheets/d/1-a_e5HAyyh4w9OYOiRExXVNHFEK4XjHdo63jTAlmEpE/edit?usp=sharing)
+
 ### Código
 
 #### Variable Global:

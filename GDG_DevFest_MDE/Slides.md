@@ -124,6 +124,29 @@ Por lo general los scripts, no piden confirmación para actualizar campos, borra
 
 ## Slide 11
 
+### Problema
+
+Los estudiantes universitarios, se sientan en los mismos puestos de estudio, esto hace que no conozcan nuevos amigos y se presenten conflictos si otras personas usan su espacio.
+
+### Pasos para solucionar el problema
+
+- Tener una lista de los estudiantes de clase
+- Desordenar la lista
+- Asignar una silla del salón según el nuevo orden
+- Diagramar los resultados
+
+### Validación Gráfica
+
+Se crea una tabla en una hoja de cálculo que simule los puestos del salón, el tablero y a cada estudiante por el nombre
+
+Finalmente se traduce a código la solución
+
+## Slide 12
+
+Esquema visualización gráfica solución Silla App
+
+## Slide 13 - 14 
+
 ### Ejemplo - Silla APP
 
 - Problema: Los estudiantes universitarios, siempre se sientan en los mismos puestos, esto hace que no conozcan nuevos amigos y se presenten
@@ -139,7 +162,22 @@ conflictos si otras personas usan su espacio.
 
 - Finalmente se traduce a código la solución
 
-## Slide 12
+#### Código
+
+##### Variable Global:
+
+    - var estudiantes = ["Juan","Esteban","William","David","Ana","Carmen"];
+
+##### Lista de funciones  
+
+-  shuffle(array): Desordena un arreglo *   
+-  invertColor(hex,bg), padZero(str, len): Crea un color que contraste con un fondo *   
+-  getRandomColor(): Calcula un color aleatorio *   
+-  desordenador(): Interactua con la hoja de cálculo  
+ 
+*: Funciones tomadas de stack over flow y otros sitios
+
+## Slide 15
 
 ![Video de youtube - Google Apps Script](https://i.ytimg.com/vi/4ph0Y2LvGys/hqdefault.jpg)  
 [Enlace al video de youtube con el demo](https://www.youtube.com/watch?v=4ph0Y2LvGys)
@@ -152,20 +190,6 @@ Se puede revisar el archivo de la hoja de cálculo en el siguiente enlace, sin e
 
 [Demo online](https://docs.google.com/spreadsheets/d/1-a_e5HAyyh4w9OYOiRExXVNHFEK4XjHdo63jTAlmEpE/edit?usp=sharing)
 
-### Código
-
-#### Variable Global:
-
-    - var estudiantes = ["Juan","Esteban","William","David","Ana","Carmen"];
-
-#### Lista de funciones  
-
--  shuffle(array): Desordena un arreglo *   
--  invertColor(hex,bg), padZero(str, len): Crea un color que contraste con un fondo *   
--  getRandomColor(): Calcula un color aleatorio *   
--  desordenador(): Interactua con la hoja de cálculo  
- 
-*: Funciones tomadas de stack over flow y otros sitios
 
 ## Enlaces de apoyo
 

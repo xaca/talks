@@ -32,8 +32,8 @@
     - Ejecución según eventos / Tiempo / Fecha
 - Resumen de la charla
 - Ejemplos
-    - Lista de chequeo de viaje
-    - Formulario para rifa en la charla
+    - Silla App (Aplicación para asignar sillas aleatorias en un salón)
+    - Formulario para rifa en la charla (Se deja en el canal de youtube)
 - Agradecimiento e info de contacto
 
 ## Slide 3
@@ -45,8 +45,6 @@ Diagrama de flujo con las principales tareas para realizar un programa.
 ## Slide 4
 
 - Automatizar tareas
-
-
 
 ## Slide 5
 
@@ -63,6 +61,8 @@ No hay manipulación del DOM, lo único que se hace en el browser es la escritur
 ### ¿Cuando usar G.A.S?
 
 - Para estudiar y aprender a programar en javascript
+
+- Cuando el código NO es muy extenso
 
 - Para crear una funcionalidad personalizada en alguna de las aplicaciones soportadas de G Suite
 
@@ -99,6 +99,64 @@ Por lo general los scripts, no piden confirmación para actualizar campos, borra
 - Prerequisitos
     - Cuenta de google
     - Acceso a google drive
-- Cheat sheet / Shortcuts
-    - [Google apps script cheat sheet](https://github.com/jychri/google-apps-script-cheat-sheet)
-    - 
+- Se recomienda tener, conocimientos en programación
+    - [Código Spaghetti](img/r_1283653_RMBmE.jpg)
+    - [Google apps script cheatsheet](https://github.com/jychri/google-apps-script-cheat-sheet)
+    - [Javascript cheatsheet 1/2](img/javascript-cheatsheet-page1-hq-codemio.jpg)
+    - [Javascript cheatsheet 2/2](img/javascript-cheatsheet-page2-hq-codemio.jpg)
+- Empezando
+    - Crear una nueva hoja de cálculo de google
+    - Ingresar al editor de secuencia de comandos (Herramientas/Editor de secuencia de comandos)
+    - Escribir funcion inicial
+    - Guardar el proyecto con un nombre apropiado
+    - Seleccionar la función a ejecutar y presionar el botón play
+    - Asignar permisos de ejecución si se presenta cuadro de dialogo
+
+## Slide 10
+
+#### Resumen
+
+- ¿Qué es programación?
+- ¿Qué es automatizar un proceso?
+- ¿Qué es Google Apps Sript?
+- Pros / contras de G.A.S
+- ¿Cómo funciona?
+
+## Slide 11
+
+### Ejemplo - Silla APP
+
+- Problema: Los estudiantes universitarios, siempre se sientan en los mismos puestos, esto hace que no conozcan nuevos amigos y se presenten
+conflictos si otras personas usan su espacio.
+
+- Pasos para solucionar el problema:    
+    - Tener una lista de los estudiantes de clase
+    - Desordenar la lista
+    - Asignar una silla del salón según el nuevo orden
+    - Diagramar los resultados
+
+- Para validar la solución gráfica se crea una tabla en la hoja de cálculo que simule los puestos del salón, el tablero y a cada estudiante por el nombre
+
+- Finalmente se traduce a código la solución
+
+## Slide 12
+
+### Código
+
+#### Variable Global:
+
+    - var estudiantes = ["Juan","Esteban","William","David","Ana","Carmen"];
+
+#### Lista de funciones  
+
+-  shuffle(array): Desordena un arreglo *   
+-  invertColor(hex,bg), padZero(str, len): Crea un color que contraste con un fondo *   
+-  getRandomColor(): Calcula un color aleatorio *   
+-  desordenador(): Interactua con la hoja de cálculo  
+ 
+*: Funciones tomadas de stack over flow y otros sitios
+
+## Enlaces de apoyo
+
+- [Apps Script Dashboard](https://script.google.com/)
+

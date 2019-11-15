@@ -141,8 +141,10 @@ conflictos si otras personas usan su espacio.
 
 ## Slide 12
 
-![Video de youtube - Google Apps Script](https://i.ytimg.com/vi/4ph0Y2LvGys/hqdefault.jpg)
+![Video de youtube - Google Apps Script](https://i.ytimg.com/vi/4ph0Y2LvGys/hqdefault.jpg)  
 [Enlace al video de youtube con el demo](https://www.youtube.com/watch?v=4ph0Y2LvGys)
+
+### Evidencia de funcionamiento
 
 ![Silla App - Demo](img/demo.gif)
 

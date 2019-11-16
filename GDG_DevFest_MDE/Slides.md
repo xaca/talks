@@ -190,8 +190,19 @@ Se puede revisar el archivo de la hoja de cálculo en el siguiente enlace, sin e
 
 [Demo online](https://docs.google.com/spreadsheets/d/1-a_e5HAyyh4w9OYOiRExXVNHFEK4XjHdo63jTAlmEpE/edit?usp=sharing)
 
+## Slide 16 
+
+### Conclusiones
+
+- G.A.S es una herramienta para soluciones rápidas y prácticas
+- G.A.S Es el primer paso para automatizar el segundo son los activadores
+- No todas las funciones de JS estan disponibles (alert,confirm, prompt)
+- Solo se pide permiso para acceder a los datos desde el script
+- El editor de secuencia de comandos es un excelente playground de JS
+- El API es muy poderosa, se pueden enviar correos, programar eventos, entre otros
 
 ## Enlaces de apoyo
 
 - [Apps Script Dashboard](https://script.google.com/)
+- [Presentación](https://docs.google.com/presentation/d/1fjvTWgKXAKhyKegTcoK22o_G293affMlDSKnq8Om4XI/edit?usp=sharing)
 

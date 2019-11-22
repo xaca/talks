@@ -30,7 +30,15 @@
 
 Un programa informático es software libre si otorga a los usuarios de manera adecuada las denominadas cuatro libertades (libertad de usar, estudiar, distribuir y mejorar). (No es free software)
 
+> "Software Libre establece muchas libertades pero no es necesariamente
+>  gratuito,... conservando su carácter libre (respetando las libertades),
+> puede ser distribuido de manera comercial"
+
 Notas: La traducción al español de free, hacía referencia a gratis y no a libertad, por tanto free software era una frase que perdía contexto al ser traducida.
+
+Open source es un modelo de desarrollo de software basado en la colaboración abierta. Se enfoca más en los beneficios prácticos (acceso al código fuente) Cuando los programadores (en Internet) pueden leer, modificar y redistribuir el código fuente de un programa, este evoluciona, se desarrolla y mejora.
+
+ Todos los productos desarrollados en Software Libre así como sus derivados siempre deben ser libres, a diferencia de Open Source.
 
 ## Slide 4
 
@@ -69,7 +77,7 @@ Palabras clave: diet hackers, complete foods, startups, community-driven online 
 [Recipes - The cookbook](https://github.com/jordanbyron/thecookbook)  
 [Recipe manager - cpcamp2](https://github.com/cpcamp2/Recipe-Manager)  
 [Cookbook - meskarune](https://github.com/meskarune/cookbook)  
-[plain text recipe database for hackers](https://chowdown.io/)  
+[Plain text recipe database for hackers](https://chowdown.io/)  
 [Recipe manager](https://opensource.com/life/15/11/organize-your-cooking-open-source-recipe-manager)  
 [Recipe Manager](https://www.paprikaapp.com/)  
 
@@ -78,3 +86,4 @@ Palabras clave: diet hackers, complete foods, startups, community-driven online 
 [Deuda técnica](https://www.javiergarzas.com/2012/11/deuda-tecnica-2.html)  
 [Sindrome del impostor](https://www.bbc.com/mundo/noticias/2015/11/151125_salud_psicologia_sindrome_impostor_lb)  
 [Software Libre](https://es.wikipedia.org/wiki/Software_libre)  
+[Diferencia entre software libre y open source](https://hipertextual.com/archivo/2014/05/diferencias-software-libre-y-open-source/)

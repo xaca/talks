@@ -118,7 +118,102 @@ Es uno de lo pasos de un procedimiento de colaboración a un proyecto, como mues
 
 [Video tutorial](https://www.youtube.com/watch?v=8MQN0U1AwgU)
 
-## Enlaces
+## Slide 8  
+
+### Antes de empezar  
+
+1. Crear una cuenta en github  
+2. Instalar git (win git bash)  
+3. Cuenta shell :)   
+4. Comandos básicos unix  
+5. Comandos básicos git  
+6. Crear proyecto  
+7. Clonar proyecto  
+8. Agregar cambios  
+9. Subir cambios  
+
+## Slide 9  
+
+### ¿Cómo empezar?  
+
+1. Ir al buscador issues github  
+2. Buscar label - (good first issue)  
+3. Fork a un proyecto  
+4. Clonar proyecto  
+5. Crear nueva rama  
+6. Seguir instrucciones issue  
+7. Agregar cambios  
+8. Realizar commit  
+9. Subir cambios  
+10. Realizar PR con comentarios  
+
+## Slide 10  
+
+### Empezando  
+
+#### Contribuidor  
+
+1. PR con comentario descriptivo en inglés  
+2. Revisar los comentarios sobre el PR, ya que pueden requerirse aclaraciones  
+3. Incluir imágenes puede ayudar según el issue  
+4. Usar markdown para mejorar la comunicación  
+5. Dejar una estrella y seguir el proyecto  
+
+#### Titular proyecto
+
+1. Readme descriptivo
+2. Usar markdown y emojis
+3. Revisar los PR
+4. Feedback oportuno
+5. Solicitar aclaraciones
+6. Relacionar PRs anteriores
+7. Resolver conflictos sencillos
+8. Revisión para conflictos largos
+9. Aprobar / Cerrar Issues
+10. Crear nuevos issues
+
+## Slide 11, 12, 13, 14, 15  
+
+### Mito 01  
+
+> Solo los expertos colaboran en proyectos open source  
+
+### Mito 02  
+
+> Es difícil darse a conocer en la comunidad  
+
+### Mito 03  
+
+> Las herramientas son complejas  
+
+### Mito 04  
+
+> Nunca estás a la altura - Sindrome del impostor  
+
+### Mito 05  
+
+> Tolerancia a la frustración - Hay una solución única  
+
+## Slide 16, 17  
+
+### Proyectos 
+
+[Coding music](github.com/xaca/coding-music)  
+[Holamundo.co](github.com/xaca/holamundo.co)  
+
+## Slide 18  
+
+### Conclusiones  
+
+1. Cualquier persona puede colaborar, no necesita ser ingenier@  o programad@r  
+
+2. Git no solo sirve para crear proyectos que requieran código  
+
+3. La comunidad recibe muy bien a los novatos, hacktoberfest es una prueba  
+
+4. Github es una red social, muy importante la empatía  
+
+## Enlaces  
 
 [Deuda técnica](https://www.javiergarzas.com/2012/11/deuda-tecnica-2.html)  
 [Sindrome del impostor](https://www.bbc.com/mundo/noticias/2015/11/151125_salud_psicologia_sindrome_impostor_lb)  

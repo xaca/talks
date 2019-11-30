@@ -2,8 +2,55 @@
 
 ### Agenda
 
-1.
-2.
-3.
-4.
-5.
+1. ¿Qué es?
+2. ASCII art
+3. Clasificación de la tipografía
+4. ¿Cómo escoger una tipografía?
+5. Contar una historia
+6. Se debe leer
+7. algunas reglas
+8. Diagramación
+9. Digbags
+10. Propiedades de edición (Curvas, svg, otf...)
+
+## Clasificación de la tipografía
+
+> Every font has a distinct personality that is influencing how we interpret the words they are expressing, whether you are aware of it or not
+
+> Getting the font wrong on your marketing materials, including your website, can be like walking into the meeting in the wrong outfit
+
+## Terminos de la familia tipografíca
+
+## Slide 4
+
+"Abre los ojos y escucha" - Jan White
+
+- Organico vs inorganico
+- Duro o blando (Feliz, tristre)
+- 
+
+## Conclusiones
+
+1. Revisar que la fuente este completa con todos los caracteres del español
+2. Usar o crear una fuente para representar los íconos de la aplicación
+3. Usar una tipografía con una familia de estilos grandes
+4. Cuidado con las fuentes con licencia
+5. Es un reto pensar solo en tipografía, o llevar a un cliente a experimentar desde este punto clave de la comunicación
+
+## Recuersos
+
+[Basic Rules of Design & Layout](http://www.graphic-design.com/Type/voice/index.html)
+[A Crash Course in Typography: The Basics of Type](https://www.jotform.com/blog/a-crash-course-in-typography-the-basics-of-type/)  
+[Anatomy of a Typeface ](http://typedia.com/learn/only/anatomy-of-a-typeface/)  
+[abc - typography](http://abc.planet-typography.com/)  
+[Type Classifications](https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/type-classifications)  
+[Best practices for using font-weights](https://www.webtype.com/info/articles/fonts-weights/)  
+[Worst Fonts Ever! 11 Examples of Bad Typography in Print](https://www.companyfolders.com/blog/worst-fonts-ever-11-examples-of-bad-typography-in-print)  
+[Font vs Typeface](https://creativemarket.com/blog/font-vs-typeface-and-14-other-design-terms-we-always-get-wrong)  
+[The Wrong Font Can Kill You. Literally. Your Sales, Too.](https://www.neurosciencemarketing.com/blog/articles/fonts-kill.htm)  
+[Why is design important for brands](https://amelia.sg/why-is-design-important-for-brands-in-singapore/)  
+[Get started with variable fonts](https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7)  
+[Family example](https://www.colophon-foundry.org/typefaces/apercu/)    
+[Font logo guide](https://worstofalldesign.com/blog/font-logo-guide)  
+[11 Fonts That Designers Love To Hate](https://www.boredpanda.com/typefaces-worst-fonts-ever-creative-market)  
+[What Your Font Choice Is Saying About You](https://makeapowerfulpoint.wordpress.com/2013/08/07/what-your-font-choice-is-saying-about-you/)  

@@ -2,16 +2,21 @@
 
 ### Agenda
 
-1. ¿Qué es?
-2. ASCII art
-3. Clasificación de la tipografía
-4. ¿Cómo escoger una tipografía?
-5. Contar una historia
-6. Se debe leer
-7. algunas reglas
-8. Diagramación
-9. Digbags
-10. Propiedades de edición (Curvas, svg, otf...)
+1. ¿Qué es?  
+2. Clasificación de la tipografía  
+3. Propiedades de edición (Curvas, svg, otf...)  
+4. ¿Cómo escoger una tipografía? - Contar una historia  
+5. ¿Funciona en la web?  
+6. Tipografía y la web  
+7. Algunas reglas al implementar - Tamaño
+8. Reglas diagramación  
+9. Se debe leer  
+10. Digbags ASCII art  
+11. Encontrar tipografías  
+12. Buscar a partir de una muestra  
+13. En uso 
+14. Tipografía experimental
+15. Conclusiones
 
 ## Clasificación de la tipografía
 
@@ -29,6 +34,25 @@
 - Duro o blando (Feliz, tristre)
 - 
 
+## Slide
+
+Render vs carga del archivo fuente
+
+## Slide 14
+
+### Tipografía experimental
+
+[Ray Gun](http://www.designishistory.com/1980/ray-gun/)  
+[ashworthchris](https://www.instagram.com/ashworthchris)  
+[It's okay to be an artist. | Roxy & Phoebe](https://www.youtube.com/watch?v=sx0HyDwSgXQ)  
+[phoebecornog](https://www.instagram.com/phoebecornog/)  
+[roxyprima](https://www.instagram.com/roxyprima/)  
+[mikesulick](https://www.instagram.com/mikesulick/)  
+[Ben Johnston](https://www.behance.net/benjohnston)  
+[tim_rodenbroeker](https://www.instagram.com/tim_rodenbroeker/)  
+[schultzschultzgrafik](https://www.instagram.com/schultzschultzgrafik/)  
+[Schultzschultz GmbH](https://www.schultzschultz.com/index.html)  
+
 ## Conclusiones
 
 1. Revisar que la fuente este completa con todos los caracteres del español
@@ -39,6 +63,8 @@
 
 ## Recuersos
 
+[Fonts in use](https://fontsinuse.com/)  
+[What the font](https://www.myfonts.com/WhatTheFont/)  
 [Basic Rules of Design & Layout](http://www.graphic-design.com/Type/voice/index.html)
 [A Crash Course in Typography: The Basics of Type](https://www.jotform.com/blog/a-crash-course-in-typography-the-basics-of-type/)  
 [Anatomy of a Typeface ](http://typedia.com/learn/only/anatomy-of-a-typeface/)  
@@ -54,3 +80,8 @@
 [Font logo guide](https://worstofalldesign.com/blog/font-logo-guide)  
 [11 Fonts That Designers Love To Hate](https://www.boredpanda.com/typefaces-worst-fonts-ever-creative-market)  
 [What Your Font Choice Is Saying About You](https://makeapowerfulpoint.wordpress.com/2013/08/07/what-your-font-choice-is-saying-about-you/)  
+[A List Apart - Typography](https://alistapart.com/blog/topic/typography-web-fonts/)  
+[The Era of Symbol Fonts](https://alistapart.com/article/the-era-of-symbol-fonts/)  
+[Say Hello to Octicons](https://github.blog/2012-05-09-say-hello-to-octicons/)  
+[Css fonts](https://www.w3.org/TR/css-fonts-3/)  
+[pinterest](https://co.pinterest.com/pin/324681454386145035/)

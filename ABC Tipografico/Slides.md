@@ -18,6 +18,12 @@
 14. Tipografía experimental
 15. Conclusiones
 
+## Slide 1
+
+### ¿Qué es Tipografía?
+
+Tarea u oficio e industria que se ocupa de la elección y el uso de tipos, para desarrollar una labor de impresión, que hace referencia a: letras, números y símbolos pertenecientes a un contenido impreso.
+
 ## Clasificación de la tipografía
 
 > Every font has a distinct personality that is influencing how we interpret the words they are expressing, whether you are aware of it or not

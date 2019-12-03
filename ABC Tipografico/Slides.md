@@ -68,7 +68,12 @@ Familia tipografíca
 
 Transformar la fuente no es lo único que se debe tener en cuenta para que el texto funcione correctamente. Acá el criterio del ojo del maquetador es clave para validar atributos de calidad como el render del texto. 
 
-Tener presente usar tamaños de fuente par, en lo posible usar fuentes palo seco, realizar pruebas con html y css, no confiarse del render de programas de diseño.
+Tener presente:
+- Usar tamaños de fuente par  
+- En lo posible usar fuentes palo seco  
+- Realizar pruebas con html y css, no confiarse del render de programas de diseño  
+
+Estar pendiente del  antialiasing: Concretamente, este efecto busca eliminar, o al menos difuminar, lo máximo posible los «dientes de sierra» que suelen aparecer en las texturas cuando los diferentes pixeles de las imágenes son demasiado grandes o no terminan de procesarse correctamente.
 
 [Transfonter](https://transfonter.org/)
 
@@ -78,6 +83,14 @@ Tener presente usar tamaños de fuente par, en lo posible usar fuentes palo seco
 
 Optimizar el tiempo de carga de los archivos que definen la fuente es clave para una correcta visualización desde el momento cero de carga. Se recomienda usar una tipografía base por defecto que tenga una alta probabilidad de encontrarse de manera nativa, para texto corrido. Usar fuentes adaptadas, en destacados y títulos. Revisar el formato de conversión, cada vez se requieren menos archivos extra. Los navegadores modernos tienen suficiente con .woff.
 
+> Use fonts designed for a screen. So called web fonts were designed with the screen in mind and its low-resolution pixel grid. The list includes Arial, Courier New, Georgia, Times New Roman and Verdana. While these fonts may look like over-exploited cliché and you may prefer Helvetica over Arial (like me), they’re also the simplest way to achieve legibility for the widest audience. The old rule still holds: when in doubt, use Verdana.
+
+[Font Format](https://smad.jmu.edu/shen/webtype/format.html#Visual)  
+[Can I use](https://caniuse.com/#feat=woff)  
+[Typography And Cross Browser Compatibility](https://blog.prototypr.io/typography-and-cross-browser-compatibility-fc1fa3b8fa9a)  
+[Font Smoothing Explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/)   
+[css-antialias](https://devhints.io/css-antialias)  
+[Typographic Anti-Aliasing](https://www.smashingmagazine.com/2009/11/the-ails-of-typographic-anti-aliasing/)  
 
 ## Slide 14
 

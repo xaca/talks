@@ -4,8 +4,8 @@
 
 1. ¿Qué es?  
 2. Clasificación de la tipografía  
-3. Propiedades de edición (Curvas, svg, otf...)  
-4. ¿Cómo escoger una tipografía? - Contar una historia  
+3. Propiedades de edición (Curvas, svg, otf...)    
+4. ¿Cómo escoger una tipografía? - Contar una historia    
 5. ¿Funciona en la web?  
 6. Tipografía y la web  
 7. Algunas reglas al implementar - Tamaño
@@ -24,24 +24,45 @@
 
 Tarea u oficio e industria que se ocupa de la elección y el uso de tipos, para desarrollar una labor de impresión, que hace referencia a: letras, números y símbolos pertenecientes a un contenido impreso.
 
-## Clasificación de la tipografía
+## Slide 2
+
+### Clasificación de la tipografía
+
+Las categorías prinicpales son:
+
+- Palo seco (Sanserif)  
+- Con remate (Serif)
+- Manuscrita (Script)  
+- Gráfica (Decorativa)  
 
 > Every font has a distinct personality that is influencing how we interpret the words they are expressing, whether you are aware of it or not
 
 > Getting the font wrong on your marketing materials, including your website, can be like walking into the meeting in the wrong outfit
 
-## Terminos de la familia tipografíca
+![alt text](https://tiposformales.files.wordpress.com/2010/09/040_cuadro_clasificacion.jpg "Tabla con clasificación de tipografías")
+[Clasificación tipográfica](https://tiposformales.com/2010/09/04/clasificacion-tipografica/)
 
-## Slide 4
+## Slide 3
+
+### Propiedades de edición  
+
+En una pantalla, lo ideal es mantener las propiedades de interacción con el texto, la selección, la búsqueda y el cambio de propiedades gráficas. Se debe evitar convertir el texto a curvas, crear imágenes para representar el texto, crear un svg con el texto.
+
+## Slide 4 y 5
+
+### ¿Cómo escoger una tipografía?
 
 "Abre los ojos y escucha" - Jan White
 
-- Organico vs inorganico
+- Orgánico vs inorgánico (Humano - robot)
 - Duro o blando (Feliz, tristre)
-- 
+- ¿Quién esta hablando a quién?
+- ¿Donde o cuando?(Lugar - tiempo)
+- ¿Cuál es la actitud? (Es como lengu aje corporal)
 
-## Slide
+Familia tipografíca
 
+## Slide 6
 Render vs carga del archivo fuente
 
 ## Slide 14

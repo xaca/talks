@@ -63,7 +63,21 @@ En una pantalla, lo ideal es mantener las propiedades de interacción con el tex
 Familia tipografíca
 
 ## Slide 6
-Render vs carga del archivo fuente
+
+### Funciona en la web
+
+Transformar la fuente no es lo único que se debe tener en cuenta para que el texto funcione correctamente. Acá el criterio del ojo del maquetador es clave para validar atributos de calidad como el render del texto. 
+
+Tener presente usar tamaños de fuente par, en lo posible usar fuentes palo seco, realizar pruebas con html y css, no confiarse del render de programas de diseño.
+
+[Transfonter](https://transfonter.org/)
+
+## Slide 7
+
+### Tipografía y la web
+
+Optimizar el tiempo de carga de los archivos que definen la fuente es clave para una correcta visualización desde el momento cero de carga. Se recomienda usar una tipografía base por defecto que tenga una alta probabilidad de encontrarse de manera nativa, para texto corrido. Usar fuentes adaptadas, en destacados y títulos. Revisar el formato de conversión, cada vez se requieren menos archivos extra. Los navegadores modernos tienen suficiente con .woff.
+
 
 ## Slide 14
 

@@ -79,7 +79,7 @@ Estar pendiente del  antialiasing: Concretamente, este efecto busca eliminar, o 
 
 ## Slide 7
 
-### Tipografía y la web
+### ¿Funciona en la web?
 
 Optimizar el tiempo de carga de los archivos que definen la fuente es clave para una correcta visualización desde el momento cero de carga. Se recomienda usar una tipografía base por defecto que tenga una alta probabilidad de encontrarse de manera nativa, para texto corrido. Usar fuentes adaptadas, en destacados y títulos. Revisar el formato de conversión, cada vez se requieren menos archivos extra. Los navegadores modernos tienen suficiente con .woff.
 
@@ -91,6 +91,44 @@ Optimizar el tiempo de carga de los archivos que definen la fuente es clave para
 [Font Smoothing Explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/)   
 [css-antialias](https://devhints.io/css-antialias)  
 [Typographic Anti-Aliasing](https://www.smashingmagazine.com/2009/11/the-ails-of-typographic-anti-aliasing/)  
+
+## Slide 8  
+
+### Tipografía y la web  
+
+#### Traducción y actualización de algunas conclusiones  
+
+- Aceptar la realidad: Un sitio web se verá muy diferente a través de diferentes ambientes.
+
+- Asuma lo peor: Cuando diseñe en photoshop, pruebe como se ve el diseño sin propiedades de optimización de visualización o ahorro de detalles. Lo mejor es hacer pruebas en pantalla directamente.
+
+- Use fuentes diseñadas para pantalla: Llamadas web fonts, estas son diseñadas pensadas para la pantalla pensadas en displays de pixeles de baja resolución. La lista incluye Arial, Courir New, Times New Roman y Verdana. La vieja regla todavía se mantiene: Cuando dude use verdana.
+
+- Cuidado con fuentes grandes: Fuentes grandes son sensibles a pixelarse cuando las propiedades de suavizado estan desactivadas. Adicionalmente cuando las fuentes son más grandes, se vuelven más evidentes los detalles de la tipografía.
+
+- Prueba: Asegurate de que la pagina es legible. A traves de diferentes sistemas operativos y dispositivos. Lo recomendable es probar en el dispositivo físico, nos e recomienda usar emuladores.
+
+- Si todo falla, use JS Sniffers: Hay un método para detectar con Javascript si el navegador esta usando algún tipo de suavizado de fuente. En este caso se puede servir diferentes tipos de fuente dependiendo de las configuraciones del usuario.
+
+- Ya estamos en el futuro: Las pantallas tienen mejor resolución para visualizar las tipografías de una forma legible, sin necesidad de usar trucos. Aunque esto es cierto, siempre se debe pensar en diseñar en el peor caso, donde el usuario disponga de tecnología limitada, ya que esto permite que la carga sea más rápida y la interacción más simple. Incluso se beneficia la accesibilidad de las piezas ya que se incluye texto que es facil de leer por los asistentes.
+
+#### What, then, can a designer do to ensure maximum legibility and a good look of a type?  
+
+> Accept the reality. Right now there’s no way to tell what settings your users have. Most likely, they have subpixel rendering on Mac OS X, no antialiasing at all on Windows XP with IE6 or Firefox, and ClearType in IE7, IE8 or Vista, but you can’t be 100% sure. Needless to say, a website will look very different across all these environments.
+
+> Assume the worst. When designing the page in Photoshop, check how does it looks without any text smoothing at all and with Smooth setting applied. Bear in mind that Smooth setting is not equal to standard antialiasing and there’s no Photoshop equivalent whatsoever to subpixel rendering. As for 2008, no smoothing at all is a very prevalent option out there, as it’s used by IE6 and Firefox on Windows XP with default settings.
+
+> Use fonts designed for a screen. So called web fonts were designed with the screen in mind and its low-resolution pixel grid. The list includes Arial, Courier New, Georgia, Times New Roman and Verdana. While these fonts may look like over-exploited cliché and you may prefer Helvetica over Arial (like me), they’re also the simplest way to achieve legibility for the widest audience. The old rule still holds: when in doubt, use Verdana.
+
+> Beware of big type. Big font sizes are especially harmed by pixelation when font smoothing is disabled. If your audience is likely to use this setting, avoid big type.
+
+> Test. Make sure the page is legible with font smoothing turned off, standard antialiasing (Windows) and subpixel rendering (ClearType on Windows, Quartz on Mac OS X). Change the typeface or its size when legibility is a problem. If you use Windows, you can check Mac rendering with Safari. On Mac, you will need to install Windows XP or Vista. If you’re a web developer, you probably already did so.
+
+> If all fails, use JavaScript sniffing. There’s a method to detect with JavaScript if the browser is using some form of font smoothing. It has some limitations, e.g. doesn’t distinguish between basic antialiasing and subpixel rendering. But it could be used to serve different fonts depending on user’s settings.
+
+> Wait for a future. CSS3 includes font-smooth property, which will allow designers to control text smoothing. Unfortunately, as for 2008, no browser supports this property. Keep in mind that the whole issue may become irrelevant before this CSS property will be implemented. Computer displays are being constantly improved and one day they should have enough DPI’s to display type in a perfectly legible way without smart tricks.
+
+[Font Smoothing Explained 2009 - Krzysztof Szafranek](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/)
 
 ## Slide 14
 

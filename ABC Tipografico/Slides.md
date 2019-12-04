@@ -8,15 +8,14 @@
 4. ¿Cómo escoger una tipografía? - Contar una historia    
 5. ¿Funciona en la web?  
 6. Tipografía y la web  
-7. Algunas reglas al implementar - Tamaño
-8. Reglas diagramación  
-9. Se debe leer  
-10. Digbags ASCII art  
-11. Encontrar tipografías  
-12. Buscar a partir de una muestra  
-13. En uso 
-14. Tipografía experimental
-15. Conclusiones
+7. Reglas diagramación - Algunas reglas al maquetar 
+8. Resumen  
+9. Digbags ASCII Art  
+10. Encontrar tipografías  
+11. Buscar a partir de una muestra  
+12. En uso 
+13. Tipografía experimental
+14. Conclusiones
 
 ## Slide 1
 
@@ -129,6 +128,27 @@ Optimizar el tiempo de carga de los archivos que definen la fuente es clave para
 > Wait for a future. CSS3 includes font-smooth property, which will allow designers to control text smoothing. Unfortunately, as for 2008, no browser supports this property. Keep in mind that the whole issue may become irrelevant before this CSS property will be implemented. Computer displays are being constantly improved and one day they should have enough DPI’s to display type in a perfectly legible way without smart tricks.
 
 [Font Smoothing Explained 2009 - Krzysztof Szafranek](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/)
+
+## Slide 9
+
+### Diagramación
+
+[Carácteres por línea](http://mikeyanderson.com/optimal_characters_per_line)  
+[Glosario Gráfico](http://www.glosariografico.com/linea_viuda)
+[Viudas y huerfanas](https://ligadura.wordpress.com/2010/06/02/viudas-y-huerfanas-que-son-y-como-eliminarlas/)  
+
+## Slide 10
+
+### Digbags ASCII Art
+
+ASCII art, fue la primera intención de darle un look diferentes a las interfaces de solo texto. Actualmente se conservan por su alto performance, en intercambio de carácteres (y)
+
+## Slide 11
+
+### Encontrar tipografías
+
+[What font is?](https://www.whatfontis.com)  
+[Font identifier](https://www.fontsquirrel.com/matcherator)  
 
 ## Slide 14
 

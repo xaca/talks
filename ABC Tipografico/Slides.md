@@ -17,13 +17,13 @@
 13. Tipografía experimental
 14. Conclusiones
 
-## Slide 1
+## Slide 3
 
 ### ¿Qué es Tipografía?
 
 Tarea u oficio e industria que se ocupa de la elección y el uso de tipos, para desarrollar una labor de impresión, que hace referencia a: letras, números y símbolos pertenecientes a un contenido impreso.
 
-## Slide 2
+## Slide 4
 
 ### Clasificación de la tipografía
 
@@ -41,13 +41,7 @@ Las categorías prinicpales son:
 ![alt text](https://tiposformales.files.wordpress.com/2010/09/040_cuadro_clasificacion.jpg "Tabla con clasificación de tipografías")
 [Clasificación tipográfica](https://tiposformales.com/2010/09/04/clasificacion-tipografica/)
 
-## Slide 3
-
-### Propiedades de edición  
-
-En una pantalla, lo ideal es mantener las propiedades de interacción con el texto, la selección, la búsqueda y el cambio de propiedades gráficas. Se debe evitar convertir el texto a curvas, crear imágenes para representar el texto, crear un svg con el texto.
-
-## Slide 4 y 5
+## Slide 5 y 6
 
 ### ¿Cómo escoger una tipografía?
 
@@ -60,21 +54,6 @@ En una pantalla, lo ideal es mantener las propiedades de interacción con el tex
 - ¿Cuál es la actitud? (Es como lengu aje corporal)
 
 Familia tipografíca
-
-## Slide 6
-
-### Funciona en la web
-
-Transformar la fuente no es lo único que se debe tener en cuenta para que el texto funcione correctamente. Acá el criterio del ojo del maquetador es clave para validar atributos de calidad como el render del texto. 
-
-Tener presente:
-- Usar tamaños de fuente par  
-- En lo posible usar fuentes palo seco  
-- Realizar pruebas con html y css, no confiarse del render de programas de diseño  
-
-Estar pendiente del  antialiasing: Concretamente, este efecto busca eliminar, o al menos difuminar, lo máximo posible los «dientes de sierra» que suelen aparecer en las texturas cuando los diferentes pixeles de las imágenes son demasiado grandes o no terminan de procesarse correctamente.
-
-[Transfonter](https://transfonter.org/)
 
 ## Slide 7
 
@@ -91,7 +70,26 @@ Optimizar el tiempo de carga de los archivos que definen la fuente es clave para
 [css-antialias](https://devhints.io/css-antialias)  
 [Typographic Anti-Aliasing](https://www.smashingmagazine.com/2009/11/the-ails-of-typographic-anti-aliasing/)  
 
-## Slide 8  
+## Slide 8
+
+### Funciona en la web
+
+Transformar la fuente no es lo único que se debe tener en cuenta para que el texto funcione correctamente. Acá el criterio del ojo del maquetador es clave para validar atributos de calidad como el render del texto. 
+
+Tener presente:
+- Usar tamaños de fuente par  
+- En lo posible usar fuentes palo seco  
+- Realizar pruebas con html y css, no confiarse del render de programas de diseño  
+
+Estar pendiente del  antialiasing: Concretamente, este efecto busca eliminar, o al menos difuminar, lo máximo posible los «dientes de sierra» que suelen aparecer en las texturas cuando los diferentes pixeles de las imágenes son demasiado grandes o no terminan de procesarse correctamente.
+
+### Propiedades de edición  
+
+En una pantalla, lo ideal es mantener las propiedades de interacción con el texto, la selección, la búsqueda y el cambio de propiedades gráficas. Se debe evitar convertir el texto a curvas, crear imágenes para representar el texto, crear un svg con el texto.
+
+[Transfonter](https://transfonter.org/)
+
+## Slide 9  
 
 ### Tipografía y la web  
 
@@ -129,7 +127,7 @@ Optimizar el tiempo de carga de los archivos que definen la fuente es clave para
 
 [Font Smoothing Explained 2009 - Krzysztof Szafranek](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/)
 
-## Slide 9
+## Slide 10
 
 ### Diagramación
 
@@ -137,24 +135,37 @@ Optimizar el tiempo de carga de los archivos que definen la fuente es clave para
 [Glosario Gráfico](http://www.glosariografico.com/linea_viuda)
 [Viudas y huerfanas](https://ligadura.wordpress.com/2010/06/02/viudas-y-huerfanas-que-son-y-como-eliminarlas/)  
 
-## Slide 10
+## Slide 12
 
 ### Digbags ASCII Art
 
 ASCII art, fue la primera intención de darle un look diferentes a las interfaces de solo texto. Actualmente se conservan por su alto performance, en intercambio de carácteres (y)
 
-## Slide 11
+## Slide 13
 
 ### Encontrar tipografías
 
+[Online Web Fonts](https://www.onlinewebfonts.com/)
+
+## Slide 14
+
+### Buscar con muestra
+
 [What font is?](https://www.whatfontis.com)  
 [Font identifier](https://www.fontsquirrel.com/matcherator)  
+
+## Slide 15
+
+### En uso
+
+[What font is?](https://www.whatfontis.com)  
 
 ## Slide 14
 
 ### Tipografía experimental
 
 [Ray Gun](http://www.designishistory.com/1980/ray-gun/)  
+[David Carson](https://www.ted.com/talks/david_carson_design_and_discovery?language=es)
 [ashworthchris](https://www.instagram.com/ashworthchris)  
 [It's okay to be an artist. | Roxy & Phoebe](https://www.youtube.com/watch?v=sx0HyDwSgXQ)  
 [phoebecornog](https://www.instagram.com/phoebecornog/)  
@@ -167,11 +178,13 @@ ASCII art, fue la primera intención de darle un look diferentes a las interface
 
 ## Conclusiones
 
-1. Revisar que la fuente este completa con todos los caracteres del español
+1. Revisar que la fuente este completa con todos los carácteres del español
 2. Usar o crear una fuente para representar los íconos de la aplicación
-3. Usar una tipografía con una familia de estilos grandes
+3. Usar una tipografía con una familia de estilos mayor a 6
 4. Cuidado con las fuentes con licencia
 5. Es un reto pensar solo en tipografía, o llevar a un cliente a experimentar desde este punto clave de la comunicación
+6. Realizar pruebas impresas o directamente en el medio digital de publicación
+7. Usar una rejilla para diagramar
 
 ## Recuersos
 

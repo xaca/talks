@@ -67,7 +67,7 @@ Optimizar el tiempo de carga de los archivos que definen la fuente es clave para
 [Can I use](https://caniuse.com/#feat=woff)  
 [Typography And Cross Browser Compatibility](https://blog.prototypr.io/typography-and-cross-browser-compatibility-fc1fa3b8fa9a)  
 [Font Smoothing Explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/)   
-[css-antialias](https://devhints.io/css-antialias)  
+[Css-antialias](https://devhints.io/css-antialias)  
 [Typographic Anti-Aliasing](https://www.smashingmagazine.com/2009/11/the-ails-of-typographic-anti-aliasing/)  
 
 ## Slide 8
@@ -141,6 +141,11 @@ En una pantalla, lo ideal es mantener las propiedades de interacción con el tex
 
 ASCII art, fue la primera intención de darle un look diferentes a las interfaces de solo texto. Actualmente se conservan por su alto performance, en intercambio de carácteres (y)
 
+[Octicons](https://github.blog/2012-05-09-say-hello-to-octicons/)  
+[Icons meaningful, easy, and accessible](https://symbolset.com/)  
+[Pixel Perfect Icon Solution](https://icomoon.io/)  
+[Font editor](https://fontforge.org/en-US/)  
+
 ## Slide 13
 
 ### Encontrar tipografías
@@ -193,7 +198,7 @@ ASCII art, fue la primera intención de darle un look diferentes a las interface
 [Basic Rules of Design & Layout](http://www.graphic-design.com/Type/voice/index.html)
 [A Crash Course in Typography: The Basics of Type](https://www.jotform.com/blog/a-crash-course-in-typography-the-basics-of-type/)  
 [Anatomy of a Typeface ](http://typedia.com/learn/only/anatomy-of-a-typeface/)  
-[abc - typography](http://abc.planet-typography.com/)  
+[Abc - typography](http://abc.planet-typography.com/)  
 [Type Classifications](https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/type-classifications)  
 [Best practices for using font-weights](https://www.webtype.com/info/articles/fonts-weights/)  
 [Worst Fonts Ever! 11 Examples of Bad Typography in Print](https://www.companyfolders.com/blog/worst-fonts-ever-11-examples-of-bad-typography-in-print)  

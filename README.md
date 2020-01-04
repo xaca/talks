@@ -9,7 +9,7 @@ A través de los commits, podrán ver el proceso que sigo para preparar principa
 - [Barcamp Medellín 2015](https://www.facebook.com/BarCampMedellin/)
     - CSS en un sass por tres  
     - Progra-Amando  
-- [Scrum Day Perú 2016 - 2017](scrumdayperu.org)
+- [Scrum Day Perú 2016 - 2017](http://www.scrumdayperu.org)
     - El portafolio para cuando
     - Scrum sobre ruedas
 - Upb Innova - Video programado / Multiplay 2016   
@@ -43,6 +43,21 @@ Playground de CSS, html y javascript. En esta cuenta desarrollo algunos ejemplos
 ### [Youtube](https://www.youtube.com/mrruedalibre)
 
 Canal de youtube, donde subo videotutoriales de programación y diseño, en total hay 133 videos. Hay dos cursos finalizados y uno en desarrollo. Actualmente cuento con 456 suscriptores, espero con el nuevo contenido llegar a 1000 en 2020 y ojala un poco más.
+
+## Actividades complementarias
+
+- [Voluntario en Code your future Colombia](https://medium.com/codeyourfutureco/presentando-code-your-future-colombia-bc4a75f7bfd5)  
+- Organizador evento Coding with friends - UPB, con la participación de Pragma, Globant, Team international, Github, entre otros.  
+- voluntario en el equipo de diseño de CSS Conf Colombia  
+
+## Enlaces de interes
+
+- []()  
+- []()  
+- []()  
+- []()  
+- [Experts Program](https://developers.google.com/community/experts)  
+- [GDE Colombia](https://medium.com/@jdjuan/conoce-los-google-developer-experts-de-colombia-371b9e73d438)  
 
 
 

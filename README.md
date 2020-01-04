@@ -12,7 +12,7 @@ A través de los commits, podrán ver el proceso que sigo para preparar principa
 - [Scrum Day Perú 2016 - 2017](scrumdayperu.org)
     - El portafolio para cuando
     - Scrum sobre ruedas
-- Upb Innova - Video programado / multiplay 2016   
+- Upb Innova - Video programado / Multiplay 2016   
 - Congreso de diseño Argentina 2016 - Proyecto de grado Maestría  
 - Progra-amando Videojuegos  - Unity Developer Day 2016  
 - Diplomando metodologías ágiles - Metro medellín 2018  

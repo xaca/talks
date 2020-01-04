@@ -21,6 +21,28 @@ A través de los commits, podrán ver el proceso que sigo para preparar principa
 - Kit de supervivencia Hacktoberfest - Open source day Wordpress Medellín 2019
 - ABC tipográfico - CSS Medellín 2019
 
+## Sitios web
+
+### [holamundo.co](http://www.holamundo.co)  
+
+Foro sobre diferentes temas de progrmación y diseño, es un espacio que utilizo con mis estudiantes para hacer seguimiento a sus proyectos y tareas de clase. Es un historial de proyecto bastante exitosos, todos los créditos para sus creadores, invitados a darle una revisión a proyectos de videojuegos, aplicaciones móviles, aplicaciones web entre otras.
+El historial de estudiantes y personas inscritas hasta la fecha es de 1820 miembros.
+
+### [xacarana.com](http://www.xacarana.com)  
+
+Sitio web personal, por el momento esta mi información de contacto y algunos tutoriales y ejercicios de programación y diseño.
+
+### [Behance](https://www.behance.net/xaca)  
+
+Portafolio de algúnos proyectos gráficos y de ingeniería. Hasta el momento he actualizado 12 proyectos finalizados.
+
+### [Codepen](https://codepen.io/xaca)
+
+Playground de CSS, html y javascript. En esta cuenta desarrollo algunos ejemplos de clase o ejercicios de tutoriales. Hasta el momento hay 83 ejemplos.
+
+### [Youtube](https://www.youtube.com/mrruedalibre)
+
+Canal de youtube, donde subo videotutoriales de programación y diseño, en total hay 133 videos. Hay dos cursos finalizados y uno en desarrollo. Actualmente cuento con 456 suscriptores, espero con el nuevo contenido llegar a 1000 en 2020 y ojala un poco más.
 
 
 

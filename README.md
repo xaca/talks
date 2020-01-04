@@ -52,10 +52,10 @@ Canal de youtube, donde subo videotutoriales de programación y diseño, en tota
 
 ## Enlaces de interes
 
-- []()  
-- []()  
-- []()  
-- []()  
+- [CSS Conf Colombia](https://cssconf.co/)  
+- [Medellín CSS](https://www.meetup.com/es/medellincss/)  
+- [Comunidad Dmente](https://www.meetup.com/es/Medellin-Human-Resources-Meetup/)    
+- [Wordpress Medellín](https://www.meetup.com/es/WordPressMedellin/)    
 - [Experts Program](https://developers.google.com/community/experts)  
 - [GDE Colombia](https://medium.com/@jdjuan/conoce-los-google-developer-experts-de-colombia-371b9e73d438)  
 

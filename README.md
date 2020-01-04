@@ -9,7 +9,7 @@ A través de los commits, podrán ver el proceso que sigo para preparar principa
 - [Barcamp Medellín 2015](https://www.facebook.com/BarCampMedellin/)
     - CSS en un sass por tres  
     - Progra-Amando  
-- [Speaker Scrum Day Perú 2016 - 2017](scrumdayperu.org)
+- [Scrum Day Perú 2016 - 2017](scrumdayperu.org)
     - El portafolio para cuando
     - Scrum sobre ruedas
 - Upb Innova - Video programado / multiplay 2016   

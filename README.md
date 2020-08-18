@@ -20,6 +20,7 @@ A través de los commits, podrán ver el proceso que sigo para preparar principa
 - Automatizar tareas usando GAS - Google Devfest Medellín 2019
 - Kit de supervivencia Hacktoberfest - Open source day Wordpress Medellín 2019
 - ABC tipográfico - CSS Medellín 2019
+- Introduccion UI, UX, CX - EPM Medellín 2020
 
 ## Sitios web
 
@@ -58,7 +59,3 @@ Canal de youtube, donde subo videotutoriales de programación y diseño, en tota
 - [Wordpress Medellín](https://www.meetup.com/es/WordPressMedellin/)    
 - [Experts Program](https://developers.google.com/community/experts)  
 - [GDE Colombia](https://medium.com/@jdjuan/conoce-los-google-developer-experts-de-colombia-371b9e73d438)  
-
-
-
-

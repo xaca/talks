@@ -21,7 +21,11 @@ A través de los commits, podrán ver el proceso que sigo para preparar principa
 - Kit de supervivencia Hacktoberfest - Open source day Wordpress Medellín 2019
 - ABC tipográfico - CSS Medellín 2019
 - Introduccion UI, UX, CX - EPM Medellín 2020
-
+- [Código sin misterio](https://www.youtube.com/watch?v=HROH75XeIuQ) - Misión TIC 2021
+- [El síndrome del impostor: ¿sabelotodo u obsoleto?](https://www.youtube.com/watch?v=u1R0U0aCcTA) - Misión TIC 2021
+- [Vida 2.0: más allá de la programación](https://www.youtube.com/watch?v=UkwfiMUfRX8) - Misión TIC 2021
+- [¿Cómo aprovechar tu tiempo en una estación espacial?](https://www.youtube.com/watch?v=9pZdmg26-dA) - Misión TIC 2021
+- [¡Haz las cosas bien! La clave para un buen viaje](https://www.youtube.com/watch?v=xUBYLq8Q00k) - Misión TIC 2021
 ## Sitios web
 
 ### [holamundo.co](http://www.holamundo.co)  

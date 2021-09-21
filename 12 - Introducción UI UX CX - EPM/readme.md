@@ -82,9 +82,15 @@ Carbon builds consistency. Based on the IBM Design Language, every element and c
 
 [Can't unsee](https://cantunsee.space/)
 
+[Practica y mejora tus habilidades de Diseño UX](https://www.retoux.com/)
+
+[UX Project Checklist](http://uxchecklist.github.io/)
+
 [Usabilidad en Zenú](https://www.revistaialimentos.com/ediciones/ed-38-el-genio-detras-zenu/genio-detras-zenu-comparte-sus-ideas/)
 
 [Accenture - Tendencias 2020](https://www.accenture.com/co-es/insights/digital/fjord-trends-2020)
+
+[Accenture - Tendencias 2021](https://www.accenture.com/co-es/insights/interactive/fjord-trends-mapping-out-new-territory)
 
 [Don't make me thing](https://olgacarreras.blogspot.com/2013/11/resena-no-me-hagas-pensar-y-haz-facil.html)
 
@@ -93,3 +99,36 @@ Carbon builds consistency. Based on the IBM Design Language, every element and c
 [Libros Customer eXpirience](https://blog.treasuredata.com/blog/2020/04/14/14-essential-customer-experience-books-to-help-you-rethink-your-cx/)
 
 El 50% es acerca de las emociones, sobre los  sentimientos del cliente, los cinco sentidos deben ser considerados cuando se diseña una experiencia para el este.
+
+## Herramientas
+
+- [Font Awesome - Optimizar íconos de una interfaz](https://fontawesome.com/)
+
+- [Cloudinary - Optimiza el uso de imágenes](https://cloudinary.com)
+
+- [Figma - Herramienta prototipado](https://www.figma.com)
+
+- [Diagrams - Diagramas online](https://app.diagrams.net/)
+
+- [Free your ideas](https://www.protopie.io/)
+
+- [Fake Clients - Practique con briefs aleatorios](https://fakeclients.com/)
+
+- [Visual Attention Software](https://vas.3m.com/)
+
+## Ejemplos
+
+- [VR Mall without ever leaving my couch](https://www.scmp.com/abacus/tech/article/3078696/i-took-walk-through-chinas-vr-mall-without-ever-leaving-my-couch)
+
+- [Tienda virtual 360 - Vélez](https://www.velez.com.co/tienda-virtual-velez360)
+
+- [Prototipo Figma Gym](https://www.figma.com/proto/xR7QKuJzTcg2sITVxYOW6N/Sistema-gym?node-id=2%3A2304&scaling=min-zoom&page-id=2%3A2303&starting-point-node-id=2%3A2304)
+
+- [Dollar Street / Usuarios diferentes niveles económicos](https://www.gapminder.org/dollar-street)
+
+- [Para reabrir las escuelas hay que abrir las ventanas](https://www.nytimes.com/es/interactive/2021/03/01/science/ventilacion-escuelas-covid.html)
+
+- [Marvel App ejemplo](https://marvelapp.com/examples/healthcare-app)
+
+- [Conferencia: Transformación Digital
+Mauricio Ferrer Henao - Vicepresidente de tecnología, innovación y Servicio para los clientes - Protección](https://youtu.be/keI9WnbwO2g?t=9066)

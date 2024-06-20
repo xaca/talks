@@ -45,3 +45,6 @@ En esta charla realizó una revisión de los conceptos fundamentales presentes a
 - [Emojipedia](https://emojipedia.org/)
 - [Módulos javascript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Modules)
 - [http-server](https://www.npmjs.com/package/http-server)
+- [Reveal JS](https://revealjs.com/)
+- [Gitignore templates](https://github.com/github/gitignore)
+- [Electron](https://www.electronjs.org/)

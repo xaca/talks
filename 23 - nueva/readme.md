@@ -37,8 +37,6 @@ En esta charla realizó una revisión de los conceptos fundamentales presentes a
 ## Enlaces de referencia
 
 - [GitTogether Medellin](https://www.meetup.com/gittogether-medellin/events/301607283/?recId=848e6999-8052-40e2-b37e-6b445bf276c4&recSource=keyword_search&searchId=a6714ab5-0deb-4ad3-8290-289b0cb39009)
-- [Otras imagenes - codespaces](https://github.com/devcontainers/images/tree/main/src/universal)
-- [Dev container - Codespace personalizado](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers)
 - [Emmet](https://emmet.io/)
 - [VSC - shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Editor de markdown](https://stackedit.io/app#)
@@ -48,3 +46,7 @@ En esta charla realizó una revisión de los conceptos fundamentales presentes a
 - [Reveal JS](https://revealjs.com/)
 - [Gitignore templates](https://github.com/github/gitignore)
 - [Electron](https://www.electronjs.org/)
+- [Github copilot](https://github.com/features/copilot)
+- [Codespaces](https://github.com/features/codespaces)
+- [Otras imagenes - codespaces](https://github.com/devcontainers/images/tree/main/src/universal)
+- [Dev container - Codespace personalizado](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers)

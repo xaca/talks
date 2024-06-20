@@ -1,2 +1,12 @@
 /node_modules
 package-lock.json
+.idea/
+*.iml
+*.iws
+*.eml
+out/
+.DS_Store
+.svn
+log/*.log
+tmp/**
+.sass-cache

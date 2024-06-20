@@ -1,0 +1,16 @@
+{
+  "name": "23---nueva",
+  "version": "1.0.0",
+  "description": "En esta charla realizó una revisión de los conceptos fundamentales presentes actualmente en github universe y que uso en mi día a día, espero que más personas incluyan estas herramientas en su día a día independiente del perfil profesional en el que se desempeñan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "reveal.js": "^5.1.0"
+  }
+}

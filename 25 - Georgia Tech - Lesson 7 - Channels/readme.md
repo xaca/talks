@@ -29,4 +29,5 @@ Virtual lesson for students from Medellin, a program from Georgia Tech. I had th
 - [Uber - Business Model](https://fasrinaleem.medium.com/how-does-virtual-business-model-work-in-uber-769ae72fd933)
 - [Santa - Business Model](https://designabetterbusiness.com/2017/12/21/why-the-business-model-of-santa-claus-is-so-successful/)
 - [How to build a startup](https://www.udacity.com/enrollment/ep245)
+- [Tools for understand your user/customer - Persona](https://design-toolkit.recursos.uoc.edu/es/design-thinking/)
 

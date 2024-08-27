@@ -11,6 +11,18 @@ Virtual lesson for students from Medellin, a program from Georgia Tech. I had th
 - What's going to be your first distribution channel?
 - How your business it's going to make money? How is or would be your channel economics?
 
+## Some Ideas from lesson 7
+
+## Final thoughs
+
+- Choose few channels to start, just one it's ok
+- Remember how your company it's going to make money
+- Be minimalist, use few words, canvas model it's just one page proposition
+- A free o cheaper channel doesn't mean bad quiality or bad idea
+- A expensive channel maybe it's not a good idea to start, look for free options
+- Everything it's related in your business model
+- Everything it's important to your company to exist
+
 ## Referents
 
 - [Airbnb - Business Model](https://www.prismetric.com/airbnb-business-model/)

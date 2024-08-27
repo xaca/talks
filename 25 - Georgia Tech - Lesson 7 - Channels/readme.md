@@ -1,6 +1,6 @@
 # Georgia Tech - Lesson 7 - Channels
 
-Virtual lesson for students from Medellin, a program from Georgia Tech. I had the oportunity to discuss about channels as a part of business model creation. Here you would found some information that I used it to preparated the session.
+Virtual lesson for students from Medellin, a program from Georgia Tech. I had the oportunity to discuss about channels as a part of business model creation. Here you would found some information that I used it to preparated the session. The main resource was a virtual course from Udacity, How to build a StartUp.
 
 ## Questions for the groups
 
@@ -16,4 +16,5 @@ Virtual lesson for students from Medellin, a program from Georgia Tech. I had th
 - [Airbnb - Business Model](https://www.prismetric.com/airbnb-business-model/)
 - [Uber - Business Model](https://fasrinaleem.medium.com/how-does-virtual-business-model-work-in-uber-769ae72fd933)
 - [Santa - Business Model](https://designabetterbusiness.com/2017/12/21/why-the-business-model-of-santa-claus-is-so-successful/)
+- [How to build a startup](https://www.udacity.com/enrollment/ep245)
 

@@ -13,6 +13,12 @@ Virtual lesson for students from Medellin, a program from Georgia Tech. I had th
 
 ## Some Ideas from lesson 7
 
+![How does the product get from your company to the customer](https://raw.githubusercontent.com/xaca/talks/master/25%20-%20Georgia%20Tech%20-%20Lesson%207%20-%20Channels/images/01_product_from_company_to_customer.jpg)
+
+![Web distribution](https://raw.githubusercontent.com/xaca/talks/master/25%20-%20Georgia%20Tech%20-%20Lesson%207%20-%20Channels/images/02_web_distribution_channel.jpg)
+
+![Physical channel](https://raw.githubusercontent.com/xaca/talks/master/25%20-%20Georgia%20Tech%20-%20Lesson%207%20-%20Channels/images/03_physical_channel.jpg)
+
 ## Final thoughs
 
 - Choose few channels to start, just one it's ok
@@ -30,4 +36,7 @@ Virtual lesson for students from Medellin, a program from Georgia Tech. I had th
 - [Santa - Business Model](https://designabetterbusiness.com/2017/12/21/why-the-business-model-of-santa-claus-is-so-successful/)
 - [How to build a startup](https://www.udacity.com/enrollment/ep245)
 - [Tools for understand your user/customer - Persona](https://design-toolkit.recursos.uoc.edu/es/design-thinking/)
+- [Distributions channels](https://www.investopedia.com/terms/d/distribution-channel.asp)
+- [System integrator](https://www.relevize.com/blog/pros-and-cons-of-system-integrator-partnerships-six-tips-for-success)
+- [Aggregator](https://geomotiv.com/blog/how-to-develop-ecommerce-aggregators/)
 

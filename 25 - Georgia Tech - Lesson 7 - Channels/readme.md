@@ -2,7 +2,7 @@
 
 Virtual lesson for students from Medellin, a program from Georgia Tech. I had the oportunity to discuss about channels as a part of business model creation. Here you would found some information that I used it to preparated the session.
 
-## Questions fro tehe groups
+## Questions for the groups
 
 - How does the product get from the company to the customer? Physical channel / Virtual channel
 - Do you have a budget for your business?

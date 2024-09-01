@@ -4,6 +4,8 @@ En esta charla realice una explicación general de la inteligencia artificial y 
 
 Fue una excelente experiencia con muy buenos resultados por parte de los participantes.
 
+![Mailing del evento](https://github.com/xaca/talks/blob/master/24%20-%20Taller%20Inteligencia%20Artificial%20-%20FEISA/Mailing-Inteligencia-Artificial.jpg?raw=true)
+
 ## Referentes utilizados
 
 - [Crear logos con IA](https://logogalleria.com/es/app)

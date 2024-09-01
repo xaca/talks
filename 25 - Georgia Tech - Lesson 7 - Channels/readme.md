@@ -40,3 +40,6 @@ Virtual lesson for students from Medellin, a program from Georgia Tech. I had th
 - [System integrator](https://www.relevize.com/blog/pros-and-cons-of-system-integrator-partnerships-six-tips-for-success)
 - [Aggregator](https://geomotiv.com/blog/how-to-develop-ecommerce-aggregators/)
 
+# Total assistans
+
+- 17 persons, between teachers, facilitators and students.
